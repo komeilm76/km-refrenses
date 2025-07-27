@@ -1,3 +1,3 @@
 import lib from './lib';
-const kmRefrense = lib;
-export default kmRefrense;
+const kmRefrenses = lib;
+export default kmRefrenses;
