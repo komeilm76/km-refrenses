@@ -1,6 +1,6 @@
 {
   "name": "km-refrense",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "hold data in other scope and linking with uniq values",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
